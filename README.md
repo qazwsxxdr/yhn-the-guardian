@@ -1,21 +1,5 @@
 YHN - The Guardian v1.0.0 -- Advanced Protection System                        
-/^\
-         / _ \
-        | / \ |
-        | \_/ |
-        |  YHN  |
-        | O   O |
-         \  ~  /
-          `---'
-         /`---`\
-        /`--.--`\
-       /        `\
-      /  _______  \
-     |  |       |  |
-     |  |_______|  |
-     |             |
-     | THE GUARDIAN |
-     `-------------`
+
 FUNCIONALIDADES PRINCIPAIS
 1. INTEGRITY CHECK
 Verifica a integridade de diretórios e arquivos usando hash SHA-256 com salt dinâmico.
