@@ -1,5 +1,4 @@
-╔═ + YHN - The Guardian v1.0.0                      
-║       Advanced Protection System  
+╔═ + YHN - The Guardian v1.0.0 -- Advanced Protection System                        
 ║  1. Integrity Check - Verify directory/file integrity
 ║  2. Encrypt Folder - Apply encryption to folders 
 ║  3. Block Application - Prevent application execution 
