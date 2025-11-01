@@ -1,6 +1,6 @@
 
 ╔══════════════════════════════════════════════════════════════╗
-║               YHN - The Guardian v1.0.0                  ║
+║               YHN - The Guardian v1.0.0                      ║
 ║                 Advanced Protection System                   ║
 ╠══════════════════════════════════════════════════════════════╣
 ║  1. Integrity Check      - Verify directory/file integrity   ║
@@ -17,5 +17,5 @@
 
 Select option:
 
-# gcc -o yhn-guardian yhn_guardian.c -lssl -lcrypto
-# ./yhn-guardian
+# gcc -o yhn yhn.c -lssl -lcrypto
+# ./yhn
