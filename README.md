@@ -1,4 +1,4 @@
-YHN - The Guardian v1.0.0 -- Advanced Protection System      
+YHN - The Guardian v0.0.1 -- Advanced Protection System - Anti-debug     
 
 build:
 gcc -o yhn yhn.c -lssl -lcrypto
